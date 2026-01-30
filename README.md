@@ -153,5 +153,5 @@ Skills: Power BI, Excel, Tableau, Data Visualization
 
 
 
-Just tell me what you want next.
+
 
